@@ -4,7 +4,7 @@
  [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=D2E2F0&size=35&center=true&width=1000&lines=Hello,+Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
  
-  ### 😃 studying/framework/tools
+  ### 🍃 studying/framework/tools
   
   
  [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
@@ -13,4 +13,5 @@
  [![DJANGO](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
  [![FLASK](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
  [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+ [![POSTGRESQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 
